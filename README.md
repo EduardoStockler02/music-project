@@ -23,15 +23,25 @@ The player includes the following main features:
 ## 📂 Project Structure
 
 ├── src
+
 │ ├── img
+
 │ │ └── [album covers]
+
 │ ├── song
+
 │ │ └── [audio files .mp3]
+
 │ ├── css
+
 │ │ └── style.css
+
 │ ├── js
+
 │ │ └── main.js
+
 │ └── index.html
+
 ├── README.md
 
 
@@ -49,7 +59,6 @@ git clone https://github.com/your-username/your-repository.git
 
 ´´´bash
 cd your-repository
-```
 
 ### 3. Open the index.html file in your preferred web browser.
 
