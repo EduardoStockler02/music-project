@@ -57,8 +57,9 @@ git clone https://github.com/your-username/your-repository.git
 
 ### 2. Navigate into the project folder:
 
-´´´bash
+```bash
 cd your-repository
+```
 
 ### 3. Open the index.html file in your preferred web browser.
 
